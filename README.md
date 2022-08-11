@@ -3,7 +3,7 @@
 <p>A passionate Frontend development student from Argentina.</p>
 <p>I'm interested in anything related to gender studies 📖 and Geek stuff 🖥️.</p>
 <p>Coffee Lover ☕☕💜💚</p>
-<img src="https://c.tenor.com/ZkqMGrdUH9cAAAAC/for-you-lofi.gif"/>
+<img src="https://i.pinimg.com/originals/cf/95/9d/cf959d86c0f499c31a8e31238b7cb576.gif"/>
 
 
 
