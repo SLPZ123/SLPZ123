@@ -1,6 +1,7 @@
 
 <h1>Hi 👋, I'm Sofi Lopez</h1>
 <h3 align="center">A passionate student frontend developer from Argentina.I'm interested in anything related to gender studies 📖 and programming 🖥️🤓.</h3>
+<img src="https://c.tenor.com/ZkqMGrdUH9cAAAAC/for-you-lofi.gif"/>
 
 - 📫 How to reach me **sofi.lopez123@outlook.com.ar**
 
