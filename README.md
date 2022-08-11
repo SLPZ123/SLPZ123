@@ -1,7 +1,8 @@
 
-<h1>Hi 👋, I'm Sofia Lopez</h1>
+<h1>Hi , I'm Sofia Lopez</h1>
 <p>A passionate Frontend development student from Argentina.</p>
 <p>I'm interested in anything related to gender studies 📖 and Geek stuff 🖥️.</p>
+<p>Coffee Lover ☕☕💜💚</p>
 <img src="https://c.tenor.com/ZkqMGrdUH9cAAAAC/for-you-lofi.gif"/>
 
 
