@@ -3,11 +3,12 @@
 <h3>A passionate Frontend development student from Argentina.I'm interested in anything related to gender studies 📖 and Geek stuff..</h3>
 <img src="https://c.tenor.com/ZkqMGrdUH9cAAAAC/for-you-lofi.gif"/>
 
-- 📫 How to reach me **sofi.lopez123@outlook.com.ar**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sofia-ileana-lopez/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sofia-ileana-lopez/" height="30" width="40" /></a>
+ <a href="mailto:sofi.lopez123@outlook.com.ar"><img src="https://cdn-icons-png.flaticon.com/512/2165/2165061.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
